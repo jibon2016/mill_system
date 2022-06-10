@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Form/.idea/Form.iml" filepath="$PROJECT_DIR$/../Form/.idea/Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-commerce/.idea/e-commerce.iml" filepath="$PROJECT_DIR$/../e-commerce/.idea/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ebazar/.idea/ebazar.iml" filepath="$PROJECT_DIR$/../ebazar/.idea/ebazar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/klorofil.iml" filepath="$PROJECT_DIR$/.idea/klorofil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laravel-blog/.idea/laravel-blog.iml" filepath="$PROJECT_DIR$/../laravel-blog/.idea/laravel-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../livestock/.idea/livestock.iml" filepath="$PROJECT_DIR$/../livestock/.idea/livestock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobiledokan/.idea/mobiledokan.iml" filepath="$PROJECT_DIR$/../mobiledokan/.idea/mobiledokan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
+    </modules>
+  </component>
+</project>

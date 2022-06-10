@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="project" />
+    <orderEntry type="module" module-name="laravel-blog" />
+    <orderEntry type="module" module-name="e-commerce" />
+    <orderEntry type="module" module-name="livestock" />
+    <orderEntry type="module" module-name="Form" />
+    <orderEntry type="module" module-name="mobiledokan" />
+    <orderEntry type="module" module-name="ebazar" />
+    <orderEntry type="module" module-name="ebazar" />
+  </component>
+</module>
